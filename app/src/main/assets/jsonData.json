@@ -1,0 +1,321 @@
+{
+  "Data":[
+    {
+      "Grade_Eng":"Kindergarten ( KG )",
+      "Grade_MM":"သူငယ်တန်း စာအုပ်များ",
+      "Book":[
+        {
+          "subjectName":"ဘာသာစကားလမ်းညွှန်",
+          "category":"ဆရာလမ်းညွှန်",
+          "pdfName": "kg1-language-guide.pdf",
+          "pdfSize": "3",
+          "link":"https://drive.google.com/uc?export=download&id=1fWOa_onahKYvRp2tH5YAOUqg8wqM76Xk"
+
+        },
+        {
+          "subjectName":"သင်ပြမှုပုံစံ",
+          "category":"ဆရာလမ်းညွှန်",
+          "pdfName": "kg2-learning-guide.pdf",
+          "pdfSize": "4",
+          "link":"https://drive.google.com/uc?export=download&id=1JOLu1C5SN-cOJNCpQKBrswTGCHFZXdq_"
+        },
+        {
+          "subjectName":"သူငယ်တန်း ဆရာလမ်းညွှန်",
+          "category":"ဆရာလမ်းညွှန်",
+          "pdfName": "kg3-teacher-guide.pdf",
+          "pdfSize": "17",
+          "link":"https://drive.google.com/uc?export=download&id=1EaTwR0d9BXgLHC_X-Q5SLwYqdCKYxlbH"
+        }
+
+
+      ]
+
+    },
+
+    {
+      "Grade_Eng":"Grade - 1",
+      "Grade_MM":"ပထမတန်း စာအုပ်များ",
+      "Book":[
+        {
+          "subjectName":"မြန်မာစာ",
+          "category":"ကျောင်းသုံးဖတ်စာအုပ်",
+          "pdfName": "G1-Myanmar.pdf",
+          "pdfSize": "79",
+          "link":"https://drive.google.com/uc?export=download&id=149q6smUT8MsZoyCOKGrVOeaXUVNBt1qc"
+
+        },
+        {
+          "subjectName":"အင်္ဂလိပ်စာ",
+          "category":"ကျောင်းသုံးဖတ်စာအုပ်",
+          "pdfName": "G1-English.pdf",
+          "pdfSize": "40",
+          "link":"https://drive.google.com/uc?export=download&id=18FpfE_E_EdFLUfsr28upSlPBEgqc_KlN"
+        },
+        {
+          "subjectName":"သင်္ချာ",
+          "category":"ကျောင်းသုံးဖတ်စာအုပ်",
+          "pdfName": "G1-Math.pdf",
+          "pdfSize": "42",
+          "link":"https://drive.google.com/uc?export=download&id=18u6CVVk7zrzx82oDErRcb5OXjoZGTbH2"
+        },
+        {
+          "subjectName":"သိပ္ပံ",
+          "category":"ကျောင်းသုံးဖတ်စာအုပ်",
+          "pdfName": "G1-Science.pdf",
+          "pdfSize": "47",
+          "link":"https://drive.google.com/uc?export=download&id=1G_6x1rmk1Sn2VRoFT4qbtusLSxE-KJXW"
+        },
+        {
+          "subjectName":"လူမှုရေး",
+          "category":"ကျောင်းသုံးဖတ်စာအုပ်",
+          "pdfName": "G1-Social Skill.pdf",
+          "pdfSize": "69",
+          "link":"https://drive.google.com/uc?export=download&id=13zII8RdyoLRdJ9snxLzdAcosktDS1IAe"
+        },
+        {
+          "subjectName":"စာရိတ္တနှင့် ပြည်သူ့နီတိ",
+          "category":"ကျောင်းသုံးဖတ်စာအုပ်",
+          "pdfName": "G1-M&C.pdf",
+          "pdfSize": "31",
+          "link":"https://drive.google.com/uc?export=download&id=14tfh6AJ0_g7mkJtnYIlVeV2LYdySD58I"
+        },
+        {
+          "subjectName":"ဘဝတွက်တာ ကျွမ်းကျင်စရာ",
+          "category":"ကျောင်းသုံးဖတ်စာအုပ်",
+          "pdfName": "G1-Life Skill.pdf",
+          "pdfSize": "33",
+          "link":"https://drive.google.com/uc?export=download&id=1Cc9eIVawBSeTcxPwh97oBqFGDRi9LCYK"
+        },
+        {
+          "subjectName":"ကာယပညာ",
+          "category":"ကျောင်းသုံးဖတ်စာအုပ်",
+          "pdfName": "G1-Exercise.pdf",
+          "pdfSize": "28",
+          "link":"https://drive.google.com/uc?export=download&id=1xJ2W1mDggipAOYmaNSs0546gPPNn3MH5"
+        },
+        {
+          "subjectName":"အနုပညာ-ပန်းချီ",
+          "category":"ကျောင်းသုံးဖတ်စာအုပ်",
+          "pdfName": "G1-Drawing.pdf",
+          "pdfSize": "41",
+          "link":"https://drive.google.com/uc?export=download&id=1GUaV2HxEFoHIbDAxLwIilYzHzIF6wO7e"
+        },
+        {
+          "subjectName":"အနုပညာ-ဂီတ",
+          "category":"ကျောင်းသုံးဖတ်စာအုပ်",
+          "pdfName": "G1-Music.pdf",
+          "pdfSize": "28",
+          "link":"https://drive.google.com/uc?export=download&id=1-16TebJVvNTOTGGQx_tKK3RgEsLsADNP"
+        }
+
+
+
+      ]
+
+    },
+    {
+      "Grade_Eng":"Grade - 2",
+      "Grade_MM":"ဒုတိယတန်း စာအုပ်များ",
+      "Book":[
+        {
+          "subjectName":"မြန်မာစာ",
+          "category":"ကျောင်းသုံးဖတ်စာအုပ်",
+          "pdfName": "G2-Myanmar.pdf",
+          "pdfSize": "95",
+          "link":"https://drive.google.com/uc?export=download&id=11_Mqy-nPgm22Hu7_BN8c8yC5xAiC0mM6"
+
+        },
+        {
+          "subjectName":"အင်္ဂလိပ်စာ",
+          "category":"ကျောင်းသုံးဖတ်စာအုပ်",
+          "pdfName": "G2-English.pdf",
+          "pdfSize": "78",
+          "link":"https://drive.google.com/uc?export=download&id=1PywwK1KLaLGbSjcUgPvaVQmqThgTOdFl"
+        },
+        {
+          "subjectName":"သင်္ချာ",
+          "category":"ကျောင်းသုံးဖတ်စာအုပ်",
+          "pdfName": "G2-Math.pdf",
+          "pdfSize": "46",
+          "link":"https://drive.google.com/uc?export=download&id=1igcBQc05YptIzlRkBNuyH-Xrp0zSg_Ex"
+        },
+        {
+          "subjectName":"သိပ္ပံ",
+          "category":"ကျောင်းသုံးဖတ်စာအုပ်",
+          "pdfName": "G2-Science.pdf",
+          "pdfSize": "63",
+          "link":"https://drive.google.com/uc?export=download&id=1IQFWIo8pwk3o1dTW3sD9V7Vz3kJH43Bb"
+        },
+        {
+          "subjectName":"လူမှုရေး",
+          "category":"ကျောင်းသုံးဖတ်စာအုပ်",
+          "pdfName": "G2-Social Skill.pdf",
+          "pdfSize": "55",
+          "link":"https://drive.google.com/uc?export=download&id=1HPItATNrzejcCc47p71XYxhxdbm9Qrmd"
+        },
+        {
+          "subjectName":"စာရိတ္တနှင့် ပြည်သူ့နီတိ",
+          "category":"ကျောင်းသုံးဖတ်စာအုပ်",
+          "pdfName": "G2-M&C.pdf",
+          "pdfSize": "68",
+          "link":"https://drive.google.com/uc?export=download&id=1HPItATNrzejcCc47p71XYxhxdbm9Qrmd"
+        },
+        {
+          "subjectName":"ဘဝတွက်တာ ကျွမ်းကျင်စရာ",
+          "category":"ကျောင်းသုံးဖတ်စာအုပ်",
+          "pdfName": "G2-Life Skill.pdf",
+          "pdfSize": "52",
+          "link":"https://drive.google.com/uc?export=download&id=1WnW_VqzB_oBC077eq6_F6YXtggzmyQQ3"
+        },
+        {
+          "subjectName":"ကာယပညာ",
+          "category":"ကျောင်းသုံးဖတ်စာအုပ်",
+          "pdfName": "G2-Exercise.pdf",
+          "pdfSize": "43",
+          "link":"https://drive.google.com/uc?export=download&id=1CxMRm8RA0aCOcMeeCFlgKhF7PuLLIGGI"
+        },
+        {
+          "subjectName":"အနုပညာ-ပန်းချီ",
+          "category":"ကျောင်းသုံးဖတ်စာအုပ်",
+          "pdfName": "G2-Drawing.pdf",
+          "pdfSize": "46",
+          "link":"https://drive.google.com/uc?export=download&id=1oPrzTCpUwc-Z_QOYrYr1wo5W6IF4u5hm"
+        },
+        {
+          "subjectName":"အနုပညာ-ဂီတ",
+          "category":"ကျောင်းသုံးဖတ်စာအုပ်",
+          "pdfName": "G2-Music.pdf",
+          "pdfSize": "31",
+          "link":"https://drive.google.com/uc?export=download&id=1JvI_nOoJ_9NXNYDLU9GpwO6ec4vuXeK5"
+        }
+
+
+      ]
+
+    },
+    {
+      "Grade_Eng":"Grade - 4",
+      "Grade_MM":"သူငယ်တန်း ဖတ်စာအုပ်များ",
+      "Book":[
+        {
+          "subjectName":"ဘာသာစကားမှီငြမ်းပြု",
+          "category":"ဆရာလမ်းညွှန်",
+          "pdfName": "kg1-language-guide.pdf",
+          "pdfSize": "3",
+          "link":"https://drive.google.com/uc?export=download&id=1fWOa_onahKYvRp2tH5YAOUqg8wqM76Xk"
+
+        },
+        {
+          "subjectName":"သင်ပြမှုပုံစံ",
+          "category":"ဆရာလမ်းညွှန်",
+          "pdfName": "kg2-learning-guide.pdf",
+          "pdfSize": "4",
+          "link":"https://drive.google.com/uc?export=download&id=1JOLu1C5SN-cOJNCpQKBrswTGCHFZXdq_"
+        },
+        {
+          "subjectName":"ဆရာလမ်းညွှန်",
+          "category":"ဆရာလမ်းညွှန်",
+          "pdfName": "kg3-teacher-guide.pdf",
+          "pdfSize": "17",
+          "link":"https://drive.google.com/uc?export=download&id=1EaTwR0d9BXgLHC_X-Q5SLwYqdCKYxlbH"
+        }
+
+
+      ]
+
+    },
+    {
+      "Grade_Eng":"Grade - 5",
+      "Grade_MM":"သူငယ်တန်း ဖတ်စာအုပ်များ",
+      "Book":[
+        {
+          "subjectName":"ဘာသာစကားမှီငြမ်းပြု",
+          "category":"ဆရာလမ်းညွှန်",
+          "pdfName": "kg1-language-guide.pdf",
+          "pdfSize": "3",
+          "link":"https://drive.google.com/uc?export=download&id=1fWOa_onahKYvRp2tH5YAOUqg8wqM76Xk"
+
+        },
+        {
+          "subjectName":"သင်ပြမှုပုံစံ",
+          "category":"ဆရာလမ်းညွှန်",
+          "pdfName": "kg2-learning-guide.pdf",
+          "pdfSize": "4",
+          "link":"https://drive.google.com/uc?export=download&id=1JOLu1C5SN-cOJNCpQKBrswTGCHFZXdq_"
+        },
+        {
+          "subjectName":"ဆရာလမ်းညွှန်",
+          "category":"ဆရာလမ်းညွှန်",
+          "pdfName": "kg3-teacher-guide.pdf",
+          "pdfSize": "17",
+          "link":"https://drive.google.com/uc?export=download&id=1EaTwR0d9BXgLHC_X-Q5SLwYqdCKYxlbH"
+        }
+
+
+      ]
+
+    },
+    {
+      "Grade_Eng":"Grade - 6",
+      "Grade_MM":"သူငယ်တန်း ဖတ်စာအုပ်များ",
+      "Book":[
+        {
+          "subjectName":"ဘာသာစကားမှီငြမ်းပြု",
+          "category":"ဆရာလမ်းညွှန်",
+          "pdfName": "kg1-language-guide.pdf",
+          "pdfSize": "3",
+          "link":"https://drive.google.com/uc?export=download&id=1fWOa_onahKYvRp2tH5YAOUqg8wqM76Xk"
+
+        },
+        {
+          "subjectName":"သင်ပြမှုပုံစံ",
+          "category":"ဆရာလမ်းညွှန်",
+          "pdfName": "kg2-learning-guide.pdf",
+          "pdfSize": "4",
+          "link":"https://drive.google.com/uc?export=download&id=1JOLu1C5SN-cOJNCpQKBrswTGCHFZXdq_"
+        },
+        {
+          "subjectName":"ဆရာလမ်းညွှန်",
+          "category":"ဆရာလမ်းညွှန်",
+          "pdfName": "kg3-teacher-guide.pdf",
+          "pdfSize": "17",
+          "link":"https://drive.google.com/uc?export=download&id=1EaTwR0d9BXgLHC_X-Q5SLwYqdCKYxlbH"
+        }
+
+
+      ]
+
+    },
+    {
+      "Grade_Eng":"Grade - 7",
+      "Grade_MM":"သူငယ်တန်း ဖတ်စာအုပ်များ",
+      "Book":[
+        {
+          "subjectName":"ဘာသာစကားမှီငြမ်းပြု",
+          "category":"ဆရာလမ်းညွှန်",
+          "pdfName": "kg1-language-guide.pdf",
+          "pdfSize": "3",
+          "link":"https://drive.google.com/uc?export=download&id=1fWOa_onahKYvRp2tH5YAOUqg8wqM76Xk"
+
+        },
+        {
+          "subjectName":"သင်ပြမှုပုံစံ",
+          "category":"ဆရာလမ်းညွှန်",
+          "pdfName": "kg2-learning-guide.pdf",
+          "pdfSize": "4",
+          "link":"https://drive.google.com/uc?export=download&id=1JOLu1C5SN-cOJNCpQKBrswTGCHFZXdq_"
+        },
+        {
+          "subjectName":"ဆရာလမ်းညွှန်",
+          "category":"ဆရာလမ်းညွှန်",
+          "pdfName": "kg3-teacher-guide.pdf",
+          "pdfSize": "17",
+          "link":"https://drive.google.com/uc?export=download&id=1EaTwR0d9BXgLHC_X-Q5SLwYqdCKYxlbH"
+        }
+
+
+      ]
+
+    }
+  ]
+}

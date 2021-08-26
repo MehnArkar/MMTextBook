@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/grade">
+
+    <fragment
+        android:id="@+id/grade"
+        android:name="com.arkarmin.mmtextbook.GradeActivity"
+        android:label="Grade"
+        tools:layout="@layout/fragment_grade" >
+        <action
+            android:id="@+id/action_grade_to_bookListFragment"
+            app:destination="@id/bookListFragment"
+            app:enterAnim="@anim/nav_default_enter_anim"
+            app:exitAnim="@anim/nav_default_exit_anim"
+            app:popEnterAnim="@anim/nav_default_pop_enter_anim"
+            app:popExitAnim="@anim/nav_default_pop_exit_anim" />
+    </fragment>
+    <fragment
+        android:id="@+id/bookListFragment"
+        android:name="com.arkarmin.mmtextbook.BookListFragment"
+        android:label="fragment_book_list"
+        tools:layout="@layout/fragment_book_list" >
+        <argument
+            android:name="myData"
+            app:argType="com.arkarmin.mmtextbook.model.MyData" />
+        <action
+            android:id="@+id/action_bookListFragment_to_grade"
+            app:destination="@id/grade"
+            app:enterAnim="@anim/nav_default_enter_anim"
+            app:exitAnim="@anim/nav_default_exit_anim"
+            app:popEnterAnim="@anim/nav_default_pop_enter_anim"
+            app:popExitAnim="@anim/nav_default_pop_exit_anim"
+            app:popUpTo="@id/my_nav"
+            app:popUpToInclusive="true" />
+    </fragment>
+
+</navigation>
